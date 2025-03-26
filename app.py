@@ -6,4 +6,4 @@ st.subheader("Et du reste d'afrique du sud ouest")
 st.text_input("ça vient d'où ? :")
 
 st.write('test site 1')
-st write('ok')
+st.write('ok')
